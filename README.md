@@ -7,18 +7,22 @@
 2.
 
 Omer Perach 
+	
 	0506780397 
 	omerperach@gmail.com
 
 Or Hapaz 
+	
 	0546387666 
 	orharpaz1@gmail.com
 
 Nattyi Akav 
+	
 	0532825665 
 	nattya01@gmail.com
 
 Anya Katz 
+	
 	0525715476 
 	anyakatz63@gmail.com
 	
@@ -52,6 +56,7 @@ Anya Katz
 
 # Business questions 
 7-9.	Business questions 
+	
 	1. Places or district in the US likely to be susceptible to more crashes – insurance company interest.
 	
 	2. The police and the medical units weak places – zones where they don't respond fast.
