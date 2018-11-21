@@ -52,12 +52,18 @@ Anya Katz
 
 # Business questions 
 7-9.	Business questions 
-		1)	Places or district in the US likely to be susceptible to more crashes – insurance company interest.
-		2)	The police and the medical units weak places – zones where they don't respond fast.
-		3)	 The roads authority in the US – which signs on the way and in which places are more crash "inviting"?
-		4)	Analyzing intersect crashes alone and to suggest a model on how to build safer intersect or where is the dangers places around the intersect?
+	1. Places or district in the US likely to be susceptible to more crashes – insurance company interest.
+	
+	2. The police and the medical units weak places – zones where they don't respond fast.
+	
+	3. The roads authority in the US – which signs on the way and in which places are more crash "inviting"?
+	
+	4. Analyzing intersect crashes alone and to suggest a model on how to build safer intersect or where is the dangers places around the intersect?
+	
 	Who (hypothetically) needs to review your business questions before you analyze?
+	
 	I think that the best person to review our business question is our target client; maybe what we think as a good business question is not question at all.
+	
 	Find an academic article(s) (patent or blog) that relates to data similar to yours:
 	https://www.kaggle.com/ahmedlahlou/preventing-traffic-accidents-in-paris-with-ai
 	https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57
