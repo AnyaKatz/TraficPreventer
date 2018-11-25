@@ -57,4 +57,5 @@ Created by the National Highway Traffic Safety Administration (NHTSA) for the Ka
 
 
 # The variables (columns) 
-10.
+10. see variables_description.docx 
+
